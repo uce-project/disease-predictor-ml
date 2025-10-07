@@ -13,7 +13,7 @@ This project is a web-based application that predicts diseases based on the symp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/disease-predictor-ml.git
+   git clone https://github.com/uce-project/disease-predictor-ml.git
    ```
 2. **Navigate to the project directory:**
    ```bash
